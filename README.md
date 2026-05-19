@@ -21,12 +21,15 @@
 ## 📸 Gallery
 
 <p align="center">
-  <!-- 
-  TODO: Replace 'screenshot_day.png' and 'screenshot_night.png' with your actual screenshot filenames.
-  Make sure to place the image files in the 'assets/images' folder.
-  -->
-  <img src="assets/images/screenshot_day.png" width="48%" alt="Day Mode View" />
-  <img src="assets/images/screenshot_night.png" width="48%" alt="Night Mode View" />
+  <img width="1018" height="608"
+       alt="Screenshot 2026-05-20 014631"
+       src="https://github.com/user-attachments/assets/faf0c24b-137d-4530-9fdb-782e9339d50c"
+       width="48%" />
+
+  <img width="1009" height="604"
+       alt="Screenshot 2026-05-20 014641"
+       src="https://github.com/user-attachments/assets/bf1b4c2e-e6b8-416f-bbc2-7561e5e4f325"
+       width="48%" />
 </p>
 
 ## ✨ Features
